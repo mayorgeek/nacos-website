@@ -1,0 +1,717 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f2f2f2;
+    font-family: system-ui, sans-serif;
+    max-width: 100vw;;
+}
+header{
+    background-image: url(../images/Rectangle_2.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+}
+.header{
+    display: flex;
+    height: 40px;
+    padding-left: 40px;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #f2f2f2;
+    /* position: fixed;
+     width: 100vw;*/
+}
+.header .logo{
+    font-weight: bolder;
+    display: flex;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
+}
+.header .logo img{
+    height: 25px;
+    width: 25px;
+}
+nav{
+    max-width: 900px;
+}
+.header ul{
+    display: flex;
+    font-size: 15px;
+}
+.header ul li{
+    justify-content: space-between;
+    margin-right: 30px;
+    list-style: none;
+}
+.header ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.header ul li a:hover{
+    font-weight: 600;
+    border-bottom: 1px solid #f2f2f2;
+
+}
+.sec1{
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+    animation: fadeinup 0.7s ease-in-out ;
+}
+header .sec1 h1{
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+header .sec1 p{
+    font-size: 15px;
+}
+.sec-a{
+    margin-bottom: 120px;
+}
+.sec-1a{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 30px ;
+    margin-top: 40px;
+}
+.sec-a .a1{
+    background-color: #fff;
+    padding: 20px ;
+    margin-right: 30px;
+    margin-top: 70px;
+    width: 220px;
+    text-align: center;
+    border-radius: 10px;
+    z-index: 20;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.al-img{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.sec-a .sec-1a h3{
+    font-size: 12px;
+    color: green;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.sec-a .sec-1a p{
+    font-size: 12px;
+    color: green;
+}
+.sec-b{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+.sec-b h1{
+    text-align: center;
+    color: green;
+    margin-bottom: 90px;
+}
+.sec-b .sec1-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-b .sec-1b{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 150px 150px;
+    grid-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+.sec-b .sec-1b #adv1{
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    max-width: 250px;
+
+}
+.sec-b .sec-1b #adv2{
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    max-width: 250px;
+}
+
+.sec-b .sec-1b img{
+    grid-column: 2 / 3;
+    grid-row: 1 / 3;
+    max-width: 320px;
+    height: 300px;
+}
+
+.sec-b .sec-1b #adv3{
+    margin-left: 30px;
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    max-width: 250px;
+}
+.sec-b .sec-1b #adv4{
+    margin-left: 30px;
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+    max-width: 250px;
+}
+.sec-b .sec-1b .adv{
+
+    width: 250px;
+
+}
+.sec-b .sec-1b .adv .adv-img{
+    margin-left: 0;
+    padding-left: 0;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.sec-b .sec-1b .adv h3{
+    color: green;
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.sec-b .sec-1b .adv p{
+    color: green;
+    font-size: 12px;
+}
+
+.sec-c{
+    margin-bottom: 50px;
+}
+.sec-c h1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.sec-c .main{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.sec-c .main .exe{
+
+    margin:60px 30px;
+}
+
+.sec-c .main .exe img{
+    height: 200px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+.sec-c .main .exe h3{
+    font-size: 15px;
+    text-transform: capitalize;
+    line-height: 15px;
+    margin-bottom: 5px;
+}
+.sec-c .main .exe span{
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.sec-d h1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.sec-d .sec-1d{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.sec-d .sec-1d .test{
+    width: 280px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    opacity: 0.4;
+    border-bottom: 1px solid green;
+    margin-top: 50px;
+}
+.sec-d .sec-1d #text{
+    margin-top: 0;
+    opacity: 1;
+}
+.sec-d .sec-1d .test img{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+.sec-d .sec-1d .test p{
+    font-size: 10px;
+    color: green;
+    line-height: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.sec-d .sec-1d .test h3{
+    font-size: 10px;
+    color: green;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.sec-d .sec-1d .test blockquote{
+    font-size: 10px;
+    color: green;
+    text-align: center;
+    opacity: 0.8;
+}
+
+/*FOOTER*/
+footer{
+    background-color: #020202;
+    color: #fff;
+    padding: 20px 50px ;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    flex-wrap: wrap;
+}
+footer .ft1{
+    max-width: 240px;
+}
+footer .ft1 h2{
+    font-size: 20px;
+}
+footer .ft1 p{
+    font-size: 10px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+footer .ft1 h3{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+footer .ft1 .ul{
+    list-style: none;
+}
+footer .ft1 li{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.li-1{
+    position: relative;
+}
+.li-1::before{
+    content: " ";
+    left: -15px;
+    top: 5px;
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-image: url(../images/location.png);
+    background-size: contain;
+    margin-right: .2em;
+}
+.li-2{
+    position: relative;
+}
+.li-2::before{
+    content: " ";
+    left: -17px;
+    top: 5px;
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    background-image: url(../images/mail.png);
+    background-size: contain;
+    margin-right: .2em;
+}
+.li-3{
+    position: relative;
+}
+.li-3::before{
+    content: " ";
+    left: -15px;
+    top: 5px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background-image: url(../images/phone.png);
+    background-size: contain;
+    margin-right: .2em;
+}
+footer .ft1 li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/*LECTURE MATERIAL NOTE*/
+.lec-mat{
+    margin-top: 70px;
+    margin-bottom: 200px;
+}
+.lec-mat h2{
+    color: green;
+    text-align: center;
+
+}
+.lec-mat .con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.lec-mat .con .div{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: green;
+    font-weight: 900;
+}
+
+/*CONTACT US PAGE*/
+.con{
+    padding: 90px 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+form{
+    display: block;
+    margin-right: 20px;
+    max-width: 500px;
+}
+.con form h2{
+    color:green ;
+    margin-bottom: 10px;
+
+}
+.con form h4{
+    color:green ;
+    margin-bottom: 10px;
+}
+.con form input{
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 6px 10px;
+}
+.con form textarea{
+    width: 100%;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+}
+.con form .checkbox{
+    display: flex;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.con form .checkbox .check{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.con form .checkbox p{
+    font-size: 12px;
+    font-weight: 500;
+}
+.con form button{
+    width: 100%;
+    padding: 10px ;
+    background-color: green;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.con img {
+    height: 500px;
+    max-width: 500px;
+    width: 100%;
+    margin-left: 30px;
+}
+
+/*ABOUT US*/
+
+
+.abt-sec-a {
+    padding: 90px 30px;
+    align-items: center;
+    text-align: center;
+}
+.abt-sec-a .abt-con {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+.abt-sec-a h3{
+    line-height: 20px;
+    font-size: 18px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #138601;
+}
+.abt-sec-a p{
+    line-height: 20px;
+    font-size: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: Nunito;
+}
+.abt-sec-a .green-box{
+    background-color: #138601;
+    padding: 30px;
+}
+.abt-sec-a .green-box ul{
+    list-style: none;
+    display: flex;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #fff;
+}
+.abt-sec-a .green-box ul li{
+    margin-left:40px ;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #fff;
+}
+.mission{
+    background-color: #fff;
+
+}
+.abt-sec-a .green-box ul li span{
+    color: #138601;
+    padding: 10px 15px;
+    font-weight: 600;
+}
+.abt-sec-a .green-box p{
+    margin-top: 30px;
+    text-align: left;
+    color: #fff;
+}
+.abt-sec-b {
+    align-items: center;
+    justify-content: center;
+}
+.abt-sec-b h1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+}
+.abt-sec-b .main{
+    display: grid;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns:repeat(3, minmax(180px, 1fr)) ;
+    grid-template-rows: auto auto auto auto;
+    grid-gap: 20px;
+    grid-auto-rows: 180px;
+    width: 100vw;
+}
+.abt-sec-b .main .exe{
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.abt-sec-b .main .exe img{
+    height: 150px;
+    width: 180px;
+    margin-bottom: 10px;
+}
+.abt-sec-b .main .exe h3{
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 10px;
+}
+.abt-sec-b .main .exe span{
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+/*GALLERY*/
+.gal-sec-a{
+    padding: 60px 20px;
+}
+.gal-sec-a .gal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.gal-sec-a img{
+    margin: 20px;
+    width: 150px;
+    height: 100px;
+}
+
+/*EVENT*/
+
+.eve-sec-a .h2{
+    text-align: center;
+    color:green ;
+    padding-top: 60px;
+    margin-bottom: 30px;
+}
+.eve-sec-a .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.eve-sec-a .main .event-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fff;
+    width: 250px;
+    margin: 50px 30px;
+}
+
+.eve-sec-a .main .event-card img{
+    height: 200px;
+    width: 250px;
+    margin-bottom: 20px;
+
+}
+.eve-sec-a .main .event-card h2{
+    font-size: 15px;
+    line-height: 15px;
+    color: #020202;
+    padding: 0 20px;
+}
+.eve-sec-a .main .event-card p{
+    font-size: 13px;
+    padding-bottom: 20px;
+    padding:8px 20px;
+    opacity: 0.5;
+}
+
+
+/*animations*/
+@keyframes fadeinup{
+    0%{
+        opacity: 0;
+        transform: translateY(140px);
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@media (max-width: 920px){
+    .header .logo p{
+        font-size: 10px;
+    }
+    .header .logo img{
+        display: none;
+    }
+    .header nav ul li{
+        margin-right: 18px;
+    }
+
+    .sec-d .sec-1d .test{
+        opacity: 1;
+        margin-top: 0;
+    }
+    .sec-d .sec-1d .test p{
+        font-size: 15px;
+    }
+    .sec-d .sec-1d .test h3{
+        font-size: 15px;
+    }
+    .sec-d .sec-1d .test blockquote{
+        font-size: 15px;
+    }
+    .sec-d .sec-1d #text{
+        display: none;
+    }
+    footer .ft1 {
+        font-size: 15px;
+        max-width: 180px;
+    }
+    footer .ft1 h2{
+        font-size: 15px;
+    }
+    footer .ft1 p{
+        font-size: 13px;
+
+    }
+    footer .ft1 ul li{
+        font-size: 15px;
+    }
+}
+@media (max-width: 680px){
+
+    .con {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .con form{
+        margin-right: 0px;
+        max-width: 600px;
+    }
+    .con form h2{
+        text-align: center;
+    }
+    .con img{
+        display: none;
+    }
+    .sec-b {
+        display: none;
+    }
+    .sec-d .sec-1d{
+        display: grid;
+    }
+    .sec-d .sec-1d .test{
+        margin-bottom: 30px;
+        width: 350px;
+    }
+
+    .lec-mat .con{
+        display: grid;
+        grid-template-columns: repeat(2, 100px);
+        grid-gap: 30px;
+    }
+    .lec-mat .con .div{
+        width: 100px;
+        height: 100px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: green;
+        font-weight: 900;
+    }
+}
