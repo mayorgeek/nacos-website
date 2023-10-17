@@ -3,7 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Nigeria Association of Computing Students (NACOS) is the Umbrella body for students studying Computer Science, Computer Engineering, Information Systems, Cybersecurity and all IT related courses in Nigeria.">
+
     <title>@yield('title') - NACOS_OOU</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
     <!-- Tailwind CSS -->
@@ -26,7 +34,7 @@
             <div class="">
                 <div class="flex items-center justify-between px-4 lg:px-10 py-2">
                     <div class="flex items-center">
-                        <img class="w-10" src="./images/nacos_jpeg.png" alt="">
+                        <img class="w-10" src="./images/nacos_logo.png" alt="">
                         <p>NACOS_OOU</p>
                     </div>
                     <nav>
@@ -72,7 +80,7 @@
                 </div>
                 <hr>
 
-                <div class="flex flex-col h-full items-center justify-center text-center pt-36">
+                <div class="flex flex-col h-full items-center justify-center text-center pt-36 px-4">
                     @yield('header')
                 </div>
             </div>
@@ -112,13 +120,13 @@
                     <div>
                         <img src="./images/mail.png">
                     </div>
-                    <a href="">nacosoou@gmail.com</a>
+                    <a href="">support@nacosoou.com.ng</a>
                 </li>
                 <li class="mt-2 flex items-center space-x-2">
                     <div>
                         <img src="./images/phone.png">
                     </div>
-                    <a href="">+2348141808014</a>
+                    <a href="">+2349114340805</a>
                 </li>
             </ul>
         </div>
@@ -128,8 +136,7 @@
             </h3>
             <ul class="mt-2 space-y-2">
                 <li><a href="{{ route('about') }}">About</a></li>
-                <li><a href="">Executives</a></li>
-                <li><a href="">NACOS Membership Registration</a></li>
+                <li><a href="{{ route('about') }}">Executives</a></li>
                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
             </ul>
         </div>
