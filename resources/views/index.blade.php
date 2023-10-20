@@ -15,30 +15,30 @@
             <div class="grid grid-cols-1 lg:grid-cols-4 gap-y-8 px-4 lg:gap-x-8 lg:px-28 py-28">
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
-                    <h3 class="text-xs font-bold text-green-700 mb-3">Advanced Computing</h3>
+                    <h3 class="text-xs font-bold text-green-700 mb-3">Networking events</h3>
                     <p class="text-xs font-normal text-green-700">
-                        We Develop, We Create, We Build Capacity, providing access to technical contents
+                        Networking events help students build their professional network, meet professionals in the field, and learn about different career paths.
                     </p>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
-                    <h3 class="text-xs font-bold text-green-700 mb-3">Advanced Computing</h3>
+                    <h3 class="text-xs font-bold text-green-700 mb-3">Career fairs</h3>
                     <p class="text-xs font-normal text-green-700">
-                        We Develop, We Create, We Build Capacity, providing access to technical contents
+                        Career fairs connect students with potential employers, give them the chance to learn about job opportunities, and provide them with career advice.
                     </p>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
-                    <h3 class="text-xs font-bold text-green-700 mb-3">Advanced Computing</h3>
+                    <h3 class="text-xs font-bold text-green-700 mb-3">Hackathons</h3>
                     <p class="text-xs font-normal text-green-700">
-                        We Develop, We Create, We Build Capacity, providing access to technical contents
+                        Hackathons allow students to put their skills to the test, learn new technologies, and have fun in a competitive environment.
                     </p>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
-                    <h3 class="text-xs font-bold text-green-700 mb-3">Advanced Computing</h3>
+                    <h3 class="text-xs font-bold text-green-700 mb-3">Academic resources</h3>
                     <p class="text-xs font-normal text-green-700">
-                        We Develop, We Create, We Build Capacity, providing access to technical contents
+                        NACOS department offers students a range of academic resources and support to enhance their education and prepare for their future careers.
                     </p>
                 </div>
             </div>
@@ -49,16 +49,16 @@
                 <div class="space-y-12">
                     <div>
                         <img class="" src="./images/Mini-computer.png" alt="">
-                        <h3 class="text-green-700 font-bold text-base mt-4">Advanced Computing</h3>
+                        <h3 class="text-green-700 font-bold text-base mt-4">Networking events</h3>
                         <p class="text-green-700 text-xs mt-2">
-                            We Develop, We Create, We Build Capacity, providing access to technical contents
+                            Networking events help students build their professional network, meet professionals in the field, and learn about different career paths
                         </p>
                     </div>
                     <div>
                         <img class="" src="./images/Mini-computer.png" alt="">
-                        <h3 class="text-green-700 font-bold text-base mt-4">Advanced Computing</h3>
+                        <h3 class="text-green-700 font-bold text-base mt-4">Career fairs</h3>
                         <p class="text-green-700 text-xs mt-2">
-                            We Develop, We Create, We Build Capacity, providing access to technical contents
+                            Career fairs connect students with potential employers, give them the chance to learn about job opportunities, and provide them with career advice.
                         </p>
                     </div>
                 </div>
@@ -66,16 +66,16 @@
                 <div class="space-y-12">
                     <div>
                         <img class="" src="./images/Mini-computer.png" alt="">
-                        <h3 class="text-green-700 font-bold text-base mt-4">Advanced Computing</h3>
+                        <h3 class="text-green-700 font-bold text-base mt-4">Hackathons</h3>
                         <p class="text-green-700 text-xs mt-2">
-                            We Develop, We Create, We Build Capacity, providing access to technical contents
+                            Hackathons allow students to put their skills to the test, learn new technologies, and have fun in a competitive environment.
                         </p>
                     </div>
                     <div>
                         <img class="" src="./images/Mini-computer.png" alt="">
-                        <h3 class="text-green-700 font-bold text-base mt-4">Advanced Computing</h3>
+                        <h3 class="text-green-700 font-bold text-base mt-4">Academic resources</h3>
                         <p class="text-green-700 text-xs mt-2">
-                            We Develop, We Create, We Build Capacity, providing access to technical contents
+                            NACOS department offers students a range of academic resources and support to enhance their education and prepare for their future careers.
                         </p>
                     </div>
                 </div>
@@ -190,32 +190,39 @@
                 <h1 class="text-green-700 font-bold text-2xl uppercase text-center">Testimonials</h1>
 
                 <div class="my-16 grid grid-cols-1 lg:grid-cols-3 lg:gap-x-28 gap-y-10 lg:gap-y-0">
-                    <div class="bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
+                    <div class="w-full bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
                         <img src="./images/Quote.png" alt="" class="w-6">
                         <p class="text-xs font-normal text-green-700">
-                            With NACOS I have made more connections and built a
-                            very good network to leverage on anytime
+                            My time as a computing student has been so rewarding, both academically and personally.
+                            I've learned so much about software engineering, and I've made some great friends along the way.
+                            I know that my degree will give me the skills I need to succeed in the real world.
+                            I'm so glad I chose to pursue a degree in computing - it's been the best decision I've ever made.
+                        </p>
+                        <h3 class="text-green-700 text-center text-xs font-black">Adesemowo Emmanuel</h3>
+                        <blockquote class="text-xs text-center text-green-700">300 level</blockquote>
+                    </div>
+                    <div class="w-full bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
+                        <img src="./images/Quote.png" alt="" class="w-6">
+                        <p class="text-xs font-normal text-green-700">
+                            When I first started out as a computing student, I didn't know what to expect.
+                            But the department has helped me grow so much, not just as a student, but as a person.
+                            I've learned how to collaborate with others, how to be a team player, and how to think critically.
+                            And the friendships I've made here are priceless.
+                            I know that my experience at NACOS has prepared me for whatever comes next, and I'm so grateful for the opportunities I've had here.
                         </p>
                         <h3 class="text-green-700 text-center text-xs font-black">Iremide Odeneye</h3>
                         <blockquote class="text-xs text-center text-green-700">200 level</blockquote>
                     </div>
-                    <div class="bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
+                    <div class="w-full bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
                         <img src="./images/Quote.png" alt="" class="w-6">
                         <p class="text-xs font-normal text-green-700">
-                            With NACOS I have made more connections and built a
-                            very good network to leverage on anytime
+                            Being a part of the NACOS department has been more than just classes and assignments.
+                            It's been a community that has supported me and challenged me to be my best self.
+                            And I've made lifelong friendships along the way.
+                            I know that my experience here has made me a better person and a more well-rounded professional.
                         </p>
-                        <h3 class="text-green-700 text-center text-xs font-black">Iremide Odeneye</h3>
-                        <blockquote class="text-xs text-center text-green-700">200 level</blockquote>
-                    </div>
-                    <div class="bg-white shadow-lg shadow-gray-400 rounded-lg p-6 space-y-3 border-b-2 border-green-800">
-                        <img src="./images/Quote.png" alt="" class="w-6">
-                        <p class="text-xs font-normal text-green-700">
-                            With NACOS I have made more connections and built a
-                            very good network to leverage on anytime
-                        </p>
-                        <h3 class="text-green-700 text-center text-xs font-black">Iremide Odeneye</h3>
-                        <blockquote class="text-xs text-center text-green-700">200 level</blockquote>
+                        <h3 class="text-green-700 text-center text-xs font-black">Isaac Adepoju</h3>
+                        <blockquote class="text-xs text-center text-green-700">300 level</blockquote>
                     </div>
                 </div>
             </div>
@@ -225,7 +232,7 @@
                 <h2 class="text-green-700 font-bold text-2xl text-center uppercase">Past/Upcoming Events</h2>
                 <div class="my-10 grid grid-cols-1 lg:grid-cols-3 lg:gap-x-20 gap-y-12 lg:gap-y-0 lg:px-28 py-12">
                     <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
-                        <img src="./images/powerbi.png" alt="">
+                        <img src="./images/powerbi.png" alt="DSN AI Summit">
                         <div class="p-4">
                             <h2 class="text-gray-900 font-bold text-base">DSN AI Summit</h2>
                             <p class="mt-3 font-normal text-gray-900 text-sm">
@@ -234,18 +241,18 @@
                         </div>
                     </div>
                     <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
-                        <img src="./images/powerbi.png" alt="">
+                        <img src="./images/events/departmental_cup.jpeg" alt="Departmental Cup">
                         <div class="p-4">
-                            <h2 class="text-gray-900 font-bold text-base">DSN AI Summit</h2>
+                            <h2 class="text-gray-900 font-bold text-base">Departmental Cup</h2>
                             <p class="mt-3 font-normal text-gray-900 text-sm">
                                 DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
                             </p>
                         </div>
                     </div>
                     <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
-                        <img src="./images/powerbi.png" alt="">
+                        <img src="./images/events/cmp_week.jpeg" alt="CMP Week">
                         <div class="p-4">
-                            <h2 class="text-gray-900 font-bold text-base">DSN AI Summit</h2>
+                            <h2 class="text-gray-900 font-bold text-base">CMP Week</h2>
                             <p class="mt-3 font-normal text-gray-900 text-sm">
                                 DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
                             </p>
