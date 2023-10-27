@@ -120,13 +120,13 @@
                     <div>
                         <img src="./images/mail.png">
                     </div>
-                    <a href="">support@nacosoou.com.ng</a>
+                    <a href="mailto:support@nacosoou.com.ng">support@nacosoou.com.ng</a>
                 </li>
                 <li class="mt-2 flex items-center space-x-2">
                     <div>
                         <img src="./images/phone.png">
                     </div>
-                    <a href="">+2349114340805</a>
+                    <a href="tel:+2349114340805">+2349114340805</a>
                 </li>
             </ul>
         </div>
