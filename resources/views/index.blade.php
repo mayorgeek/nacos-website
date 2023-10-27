@@ -13,28 +13,28 @@
     <div class="bg-[#f2f2f2]">
         <section>
             <div class="grid grid-cols-1 lg:grid-cols-4 gap-y-8 px-4 lg:gap-x-8 lg:px-28 py-28">
-                <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
+                <div class="bg-white shadow-sm shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
                     <h3 class="text-xs font-bold text-green-700 mb-3">Networking events</h3>
                     <p class="text-xs font-normal text-green-700">
                         Networking events help students build their professional network, meet professionals in the field, and learn about different career paths.
                     </p>
                 </div>
-                <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
+                <div class="bg-white shadow-sm shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
                     <h3 class="text-xs font-bold text-green-700 mb-3">Career fairs</h3>
                     <p class="text-xs font-normal text-green-700">
                         Career fairs connect students with potential employers, give them the chance to learn about job opportunities, and provide them with career advice.
                     </p>
                 </div>
-                <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
+                <div class="bg-white shadow-sm shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
                     <h3 class="text-xs font-bold text-green-700 mb-3">Hackathons</h3>
                     <p class="text-xs font-normal text-green-700">
                         Hackathons allow students to put their skills to the test, learn new technologies, and have fun in a competitive environment.
                     </p>
                 </div>
-                <div class="bg-white shadow-lg shadow-gray-500 rounded-xl py-8 px-6 text-center">
+                <div class="bg-white shadow-sm shadow-gray-500 rounded-xl py-8 px-6 text-center">
                     <img class="mx-auto mb-6" src="./images/computer.png" alt="">
                     <h3 class="text-xs font-bold text-green-700 mb-3">Academic resources</h3>
                     <p class="text-xs font-normal text-green-700">
@@ -117,7 +117,7 @@
                 <div class="bg-white border border-green-700 rounded-lg">
                     <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Ire.jpg" alt="Odeneye Iremide Pluwateniola">
                     <div class="p-5 text-center">
-                        <h3 class="uppercase text-gray-900 font-bold text-base">Odeneye Iremide Pluwateniola</h3>
+                        <h3 class="uppercase text-gray-900 font-bold text-base">Odeneye Iremide Oluwateniola</h3>
                         <p class="text-gray-900 font-normal text-base">Financial Secretary</p>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                 <div class="bg-white border border-green-700 rounded-lg">
                     <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Kuku.jpg" alt="Muburak Afolabi Kuku">
                     <div class="p-5 text-center">
-                        <h3 class="uppercase text-gray-900 font-bold text-base">Muburak Afolabi Kuku</h3>
+                        <h3 class="uppercase text-gray-900 font-bold text-base">Kuku Mubaraq Afolabi</h3>
                         <p class="text-gray-900 font-normal text-base">Public Relation Officer</p>
                     </div>
                 </div>
