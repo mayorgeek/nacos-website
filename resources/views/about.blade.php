@@ -90,7 +90,7 @@
                 <div class="bg-white border border-green-700 rounded-lg">
                     <img class="w-full h-72 rounded-t-lg object-cover" src="./images/Victor.jpg" alt="ADEbanjo Victor Oluwasegun">
                     <div class="p-5 text-center">
-                        <h3 class="uppercase text-gray-900 font-bold text-base">ADEbanjo Victor Oluwasegun</h3>
+                        <h3 class="uppercase text-gray-900 font-bold text-base">Adebanjo Victor Oluwasegun</h3>
                         <p class="text-gray-900 font-normal text-base">Ass General Secretary</p>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                 <div class="bg-white border border-green-700 rounded-lg">
                     <img class="w-full h-72 rounded-t-lg object-cover" src="./images/Ire.jpg" alt="Odeneye Iremide Pluwateniola">
                     <div class="p-5 text-center">
-                        <h3 class="uppercase text-gray-900 font-bold text-base">Odeneye Iremide Pluwateniola</h3>
+                        <h3 class="uppercase text-gray-900 font-bold text-base">Odeneye Iremide Oluwateniola</h3>
                         <p class="text-gray-900 font-normal text-base">Financial Secretary</p>
                     </div>
                 </div>
@@ -159,7 +159,7 @@
                 <div class="bg-white border border-green-700 rounded-lg">
                     <img class="w-full h-72 rounded-t-lg object-cover" src="./images/Kuku.jpg" alt="Muburak Afolabi Kuku">
                     <div class="p-5 text-center">
-                        <h3 class="uppercase text-gray-900 font-bold text-base">Muburak Afolabi Kuku</h3>
+                        <h3 class="uppercase text-gray-900 font-bold text-base">Kuku Mubaraq Afolabi</h3>
                         <p class="text-gray-900 font-normal text-base">Public Relation Officer</p>
                     </div>
                 </div>
