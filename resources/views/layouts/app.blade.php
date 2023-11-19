@@ -21,6 +21,8 @@
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 </head>
 <body>
 <header>
@@ -128,6 +130,26 @@
                     </div>
                     <a href="tel:+2349114340805">+2349114340805</a>
                 </li>
+                <li class="mt-4 space-y-2">
+                    <div class="space-x-2">
+                        <i class="bi bi-instagram"></i>
+                        <a href="https://instagram.com/nacos_oou?igshid=NzZlODBkYWE4Ng==">
+                            Let's connect on Instagram
+                        </a>
+                    </div>
+                    <div class="space-x-2">
+                        <i class="bi bi-twitter-x"></i>
+                        <a href="https://x.com/nacos_oou?t=kJ_zqgvW2LjWOq79DRksxg&s=09">
+                            Follow us on Twitter
+                        </a>
+                    </div>
+                    <div class="space-x-2">
+                        <i class="bi bi-whatsapp"></i>
+                        <a href="https://api.whatsapp.com/send?phone=2349114340805">
+                            Say Hi on WhatsApp
+                        </a>
+                    </div>
+                </li>
             </ul>
         </div>
         <div class="">
@@ -139,6 +161,18 @@
                 <li><a href="{{ route('about') }}">Executives</a></li>
                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
             </ul>
+        </div>
+    </div>
+    <div class="text-gray-100 bg-black px-7 lg:px-14 pt-3 pb-6 flex flex-col lg:flex-row lg:items-center lg:justify-between">
+        <div>
+            <p>Designer: Ire the UX Designer</p>
+            <p>Developer: AdeEmma JS developer</p>
+        </div>
+        <div>
+            Powered by 
+            <a class="text-blue-500" href="https://aiotouchsoftwares.com/">
+                Aiotouch Softwares
+            </a>
         </div>
     </div>
 </footer>

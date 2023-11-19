@@ -4,7 +4,7 @@
 
 @section('header')
     <div class="animate__animated animate__slideInUp">
-        <h1 class="text-4xl lg:text-5xl text-white font-bold max-w-lg leading-snug">Nigeria Association Of Computing Students.</h1>
+        <h1 class="text-4xl lg:text-5xl text-white font-bold max-w-lg leading-snug">Nigeria Association Of Computing Students</h1>
         <p class="mt-4 text-medium text-white text-base">Olabisi Onabanjo University Chapter</p>
     </div>
 @endsection
