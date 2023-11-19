@@ -28,6 +28,7 @@
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/16.jpeg" alt="">
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/17.jpeg" alt="">
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/18.jpeg" alt="">
+            <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/19.jpeg" alt="">
         </div>
     </section>
 @endsection
