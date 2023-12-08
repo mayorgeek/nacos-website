@@ -15,54 +15,54 @@
                     <img src="./images/powerbi.png" alt="DSN AI Summit">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">DSN AI Summit</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                     <img src="./images/events/oldschoolday.JPG" alt="Old school day">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">Old school day</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                     <img src="./images/events/departmental_cup.jpeg" alt="Departmental Cup">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">Departmental Cup</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                     <img src="./images/events/cmp_week.jpeg" alt="CMP Week">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">CMP Week</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                     <img src="./images/events/paint_and_sip.jpeg" alt="Paint and Sip">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">Paint and Sip</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                     <img src="./images/events/freshers_night.jpeg" alt="Freshers Night">
                     <div class="p-4">
                         <h2 class="text-gray-900 font-bold text-base">Freshers Night</h2>
-                        <p class="mt-3 font-normal text-gray-900 text-sm">
+                        {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                             DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
             </div>

@@ -29,6 +29,10 @@
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/17.jpeg" alt="">
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/18.jpeg" alt="">
             <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/19.jpeg" alt="">
+            <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/20.jpg" alt="">
+            <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/21.JPG" alt="">
+            <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/22.JPG" alt="">
+            <img class="w-full h-72 object-cover rounded-sm" src="./images/gallery/23.JPG" alt="">
         </div>
     </section>
 @endsection

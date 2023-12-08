@@ -175,6 +175,9 @@
             </a>
         </div>
     </div>
+    <div class="text-gray-100 bg-black text-base font-normal text-center py-3">
+        ELIHS LED ADMINISTRATION'23
+    </div>
 </footer>
 </div>
 
