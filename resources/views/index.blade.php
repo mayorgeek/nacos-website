@@ -130,7 +130,7 @@
                     </div>
                 </div>
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Dl_Spenser.jpg" alt="Adenibi Dennis">
+                    <img class="w-full h-72 lg:h-72 rounded-t-lg object-cover" src="./images/Dl_Spenser.jpg" alt="Adenibi Dennis">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Adenibi Dennis</h3>
                         <p class="text-gray-900 font-normal text-base">Social Director 2</p>
@@ -138,14 +138,14 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/adeemma.jpeg" alt="Adesemowo EMMANUEL">
+                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/adeemma.JPG" alt="Adesemowo EMMANUEL">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Adesemowo EMMANUEL</h3>
                         <p class="text-gray-900 font-normal text-base">ICT Director 1</p>
                     </div>
                 </div>
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Teju.jpg" alt="Tejuosho Emmanuel Ayomide">
+                    <img class="w-full h-72 lg:h-72 rounded-t-lg object-cover" src="./images/Teju.jpg" alt="Tejuosho Emmanuel Ayomide">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Tejuosho Emmanuel Ayomide</h3>
                         <p class="text-gray-900 font-normal text-base">ICT Director 2</p>
@@ -153,7 +153,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/moyo.jpg" alt="Udebhulu Gideon Moyosore">
+                    <img class="w-full h-72 lg:h-72 rounded-t-lg object-cover" src="./images/moyo.JPG" alt="Udebhulu Gideon Moyosore">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Udebhulu Gideon Moyosore</h3>
                         <p class="text-gray-900 font-normal text-base">Welfare Director 1</p>
@@ -168,7 +168,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Zickel.jpg" alt="Tiamiyu Olugbenga Ezekiel">
+                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Zickel.JPG" alt="Tiamiyu Olugbenga Ezekiel">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Tiamiyu Olugbenga Ezekiel</h3>
                         <p class="text-gray-900 font-normal text-base">Sport Director</p>
@@ -176,7 +176,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/Kuku.jpg" alt="Muburak Afolabi Kuku">
+                    <img class="w-full h-72 lg:h-72 rounded-t-lg object-cover" src="./images/Kuku.jpg" alt="Muburak Afolabi Kuku">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Kuku Mubaraq Afolabi</h3>
                         <p class="text-gray-900 font-normal text-base">Public Relation Officer</p>
