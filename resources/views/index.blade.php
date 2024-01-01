@@ -100,7 +100,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/BigAunty.jpg" alt="Adeyinka Kudoro">
+                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/bigaunty.jpg" alt="Adeyinka Kudoro">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Adeyinka Kudoro</h3>
                         <p class="text-gray-900 font-normal text-base">General Secretary</p>
