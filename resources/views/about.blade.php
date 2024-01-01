@@ -81,7 +81,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/BigAunty.JPG" alt="Adeyinka Kudoro">
+                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/BigAunty.jpg" alt="Adeyinka Kudoro">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Adeyinka Kudoro</h3>
                         <p class="text-gray-900 font-normal text-base">General Secretary</p>
@@ -134,7 +134,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/moyo.JPG" alt="Udebhulu Gideon Moyosore">
+                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/moyo.jpg" alt="Udebhulu Gideon Moyosore">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Udebhulu Gideon Moyosore</h3>
                         <p class="text-gray-900 font-normal text-base">Welfare Director 1</p>
@@ -149,7 +149,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/Zickel.JPG" alt="Tiamiyu Olugbenga Ezekiel">
+                    <img class="w-full h-72 rounded-t-lg object-cover" src="./images/Zickel.jpg" alt="Tiamiyu Olugbenga Ezekiel">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Tiamiyu Olugbenga Ezekiel</h3>
                         <p class="text-gray-900 font-normal text-base">Sport Director</p>
