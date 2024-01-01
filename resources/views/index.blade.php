@@ -100,7 +100,7 @@
                 </div>
 
                 <div class="bg-white border border-green-700 rounded-lg">
-                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/BigAunty.jpg" alt="Adeyinka Kudoro">
+                    <img class="w-full h-76 lg:h-72 rounded-t-lg object-cover" src="./images/BigAunty.JPG" alt="Adeyinka Kudoro">
                     <div class="p-5 text-center">
                         <h3 class="uppercase text-gray-900 font-bold text-base">Adeyinka Kudoro</h3>
                         <p class="text-gray-900 font-normal text-base">General Secretary</p>
@@ -235,27 +235,27 @@
                         <img src="./images/powerbi.png" alt="DSN AI Summit">
                         <div class="p-4">
                             <h2 class="text-gray-900 font-bold text-base">DSN AI Summit</h2>
-                            <p class="mt-3 font-normal text-gray-900 text-sm">
+                            {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                                 DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                            </p>
+                            </p> --}}
                         </div>
                     </div>
                     <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                         <img src="./images/events/departmental_cup.jpeg" alt="Departmental Cup">
                         <div class="p-4">
                             <h2 class="text-gray-900 font-bold text-base">Departmental Cup</h2>
-                            <p class="mt-3 font-normal text-gray-900 text-sm">
+                            {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                                 DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                            </p>
+                            </p> --}}
                         </div>
                     </div>
                     <div class="bg-white shadow-lg shadow-gray-500 rounded-t-lg">
                         <img src="./images/events/cmp_week.jpeg" alt="CMP Week">
                         <div class="p-4">
                             <h2 class="text-gray-900 font-bold text-base">CMP Week</h2>
-                            <p class="mt-3 font-normal text-gray-900 text-sm">
+                            {{-- <p class="mt-3 font-normal text-gray-900 text-sm">
                                 DSN AI bootcamp, an all-expenses-paid learning bootcamp that builds Africa s...
-                            </p>
+                            </p> --}}
                         </div>
                     </div>
                 </div>
